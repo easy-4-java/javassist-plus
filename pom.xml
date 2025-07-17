@@ -383,7 +383,7 @@
 		<maven-source-plugin.version>3.0.1</maven-source-plugin.version>
 		<maven-nexus-staging-plugin.version>1.6.8</maven-nexus-staging-plugin.version>
 		<!-- Dependency versions -->
-		<commons-lang3.version>3.17.0</commons-lang3.version>
+		<commons-lang3.version>3.18.0</commons-lang3.version>
 		<javassist.version>3.30.2-GA</javassist.version>
 		<junit.version>4.13.2</junit.version>
 		<junit-jupiter.version>5.10.3</junit-jupiter.version>
