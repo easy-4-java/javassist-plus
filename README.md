@@ -5,7 +5,7 @@ javassist-plus
 
 ``` xml
 <dependency>
-	<groupId>com.github.hiwepy</groupId>
+	<groupId>io.github.easy4j</groupId>
 	<artifactId>javassist-plus</artifactId>
 	<version>${project.version}</version>
 </dependency>
